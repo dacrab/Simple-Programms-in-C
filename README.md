@@ -3,9 +3,18 @@
 Welcome to my repository for C and C++ projects! Here you'll find a collection of school projects ranging from simple calculators to more complex systems.
 
 ## 🚀 Projects Included
+### C Projects:
+- [**Text-Based RPG Game**](./text_based_rpg_game): Embark on an adventure in this text-based RPG game.
+- [**Todo List Manager**](./todo_list_manager): Manage your tasks with this console-based todo list manager.
+- [**Text-Based Tic-Tac-Toe**](./tic_tac_toe): Enjoy a game of Tic-Tac-Toe with a friend.
 - [**Calculator**](./calculator.c): Basic arithmetic operations.
-- [**Restaurant Management System**](./Restaurant.cpp): Track restaurant receipts.
 - [**Contact Management System**](./contact_management_system.c): Manage your contacts easily.
+
+### C++ Projects:
+- [**Restaurant Management System**](./Restaurant.cpp): Track restaurant receipts.
+- [**Library Management System**](./library_management_system): Manage your library inventory with ease.
+- [**Student Grade Tracker**](./student_grade_tracker): Keep track of student grades effortlessly.
+- [**Bank Account Management System**](./bank_account_management_system): Simplify your banking tasks with this system.
 
 Feel free to explore each project's directory for more details and instructions on how to use them.
 
