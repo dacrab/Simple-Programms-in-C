@@ -13,7 +13,7 @@ Welcome to my repository for C and C++ projects! Here you'll find a collection o
 ### C++ Projects:
 - [**Restaurant Management System**](./Restaurant.cpp): Track restaurant receipts.
 - [**Library Management System**](./Library_Management_System.cpp): Manage your library inventory with ease.
-- [**Student Grade Tracker**](./Student_Grade_Tracker.cpp): Keep track of student grades effortlessly.
+- [**Student Grade Tracker**](./Student_Grade_System.cpp): Keep track of student grades effortlessly.
 - [**Bank Account Management System**](./Bank_Account_Management_System.cpp): Simplify your banking tasks with this system.
 
 Feel free to explore each project's directory for more details and instructions on how to use them.
